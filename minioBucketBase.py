@@ -1,7 +1,7 @@
 from minioConfig import minioClient
 from minio.error import InvalidResponseError
 """
-Python操作存储桶(文件夹)
+Python操作存储桶
 """
 
 class Bucket:
