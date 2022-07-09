@@ -5,7 +5,9 @@
 from minioConfig import minioClient
 from minio.error import InvalidResponseError
 import os
-
+"""
+Python操作文件
+"""
 
 class Object:
 
