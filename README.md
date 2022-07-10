@@ -12,7 +12,7 @@ chmod +x minio
 ```
 启动minio：
 ```
-./minio server /path/to/your/data/save/path
+./minio server /path/to/your/data/save/location
 ```
 启动成功后，根据控制台的输出提示，访问提示的链接，输入提示的账号密码即可。
 
